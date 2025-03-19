@@ -58,3 +58,14 @@ a:hover {
 img{
     max-width: 95%
 }
+
+.formularioGlobal{
+    display: flex;
+    max-width: 90rem;
+}
+
+.dadosPessoais{
+    display: flex;
+    flex-direction: row;
+}
+
