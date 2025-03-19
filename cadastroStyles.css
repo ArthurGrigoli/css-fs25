@@ -60,8 +60,9 @@ img{
 }
 
 .formularioGlobal{
-    display: flex;
+
     max-width: 90rem;
+
 }
 
 .dadosPessoais{
